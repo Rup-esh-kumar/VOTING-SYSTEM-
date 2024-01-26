@@ -10,3 +10,10 @@ It is replacement of EVM with some extra features.
 4. It has two beep sounds.
 a. 1st beep for voting conrmation
 b. 2nd beep for vote hidding conmation
+
+# FOR RUN THE CODE 
+SPECIAL CODE =1234; 
+ READ IMPORTANT INSTRUCTION:-
+  * Press 1 for voting(a)
+  * Press -1 to pause the election(a)
+  * Press -9 to end the election(a)
