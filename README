@@ -1,0 +1,6 @@
+VOTING System
+ SPECIAL CODE =1234; 
+ READ IMPORTANT INSTRUCTION:-
+  * Press 1 for voting(a)
+  * Press -1 to pause the election(a)
+  * Press -9 to end the election(a)
